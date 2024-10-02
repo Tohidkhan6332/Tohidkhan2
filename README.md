@@ -23,7 +23,7 @@ Very powerfull & dangerou Facebook tool.
   ### Termux Guide command 
 
   <div align="center">
-<a href="https://www.instagram.com/tohidkhan6332/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=G0B1&center=true&width=910&height=100&lines=TERMUX+GUIDE+COMMAND+FACEBOOK+TOOL;PROGRAM+By+Mr-Tohid" alt="Typing SVG" /></a>
+<a href="https://www.instagram.com/tohidkhan6332/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=G0B1&center=true&width=910&height=100&lines=TERMUX+GUIDE+COMMAND;PROGRAM+By+Mr-Tohid" alt="Typing SVG" /></a>
 
 1.
  ```bash
@@ -69,23 +69,23 @@ $pip install bs4
  ```bash
 $git clone https://github.com/Tohidkhan6332/Tohidkhan2.git
 ```
-12
+12.
  ```bash
 $ls
 ```
-12.
+13.
  ```bash
 $cd Tohidkhan2
 ```
-13
+14.
  ```bash
 $ls
 ```
-14.
+15.
  ```bash
 $chmod 777 Tohid2.py
 ```
-15.
+16.
  ```bash
 $python Tohid2.py
 ```
