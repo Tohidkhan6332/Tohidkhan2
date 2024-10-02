@@ -20,6 +20,77 @@ Very powerfull & dangerou Facebook tool.
 [4] :::::::::➤2004 ᴛo 2008 
 
 
+  ### Termux Guide command 
+
+  <div align="center">
+<a href="https://www.instagram.com/tohidkhan6332/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=G0B1&center=true&width=910&height=100&lines=TERMUX+GUIDE+COMMAND+FACEBOOK+TOOL;PROGRAM+By+Mr-Tohid" alt="Typing SVG" /></a>
+
+1.
+ ```bash
+termux-setup-storage
+```
+ 2.
+ ```bash
+$pkg update
+```
+3.
+ ```bash
+$pkg upgrade
+```
+4.
+ ```bash
+$pkg install git
+```
+5.
+ ```bash
+$pkg install python
+```
+6.
+ ```bash
+$pkg install python2
+```
+7.
+ ```bash
+$pip install requests
+```
+8.
+ ```bash
+$pip install mechanize
+```
+9.
+ ```bash
+$pip install lolcat
+```
+10.
+ ```bash
+$pip install bs4
+```
+11.
+ ```bash
+$git clone https://github.com/Tohidkhan6332/Tohidkhan2.git
+```
+12
+ ```bash
+$ls
+```
+12.
+ ```bash
+$cd Tohidkhan2
+```
+13
+ ```bash
+$ls
+```
+14.
+ ```bash
+$chmod 777 Tohid2.py
+```
+15.
+ ```bash
+$python Tohid2.py
+```
+
+
 important 👇 for you
 
 <div align="center">
@@ -62,24 +133,4 @@ important 👇 for you
 - ✉️ Text me on WhatsApp https://wa.me/917849917350
 
 
- ### Termux Guide command 
-
-  ```bash
-termux-setup-storage
-pkg update 
-pkg upgrade
-pkg install git
-pkg install python
-pkg install python2
-pip install requests
-pip install mechanize 
-pip install lolcat
-pip install bs4
-git clone https://github.com/Tohidkhan6332/Tohidkhan2.git
-ls 
-cd Tohidkhan2
-ls
-chmod 777 Tohid2.py
-python Tohid2.py
-```
 
