@@ -10,7 +10,7 @@
 ### Facebook tool By `TOHID KHAN`
 Very powerfull & dangerou Facebook tool. 
 ### Tool Features
-⚠️
+
 [1]:::::::::➤ᴘᴜʙʟɪᴄ ᴄʟᴏɴɪɴɢ
 
 [2] :::::::::➤ᴘᴀᴋ ʀᴀɴᴅᴏᴍ ᴄʟᴏɴɪɴɢ
@@ -18,7 +18,7 @@ Very powerfull & dangerou Facebook tool.
 [3] :::::::::➤2006 ᴛᴏ 2012 
 
 [4] :::::::::➤2004 ᴛo 2008 
-⚠️
+
 
 important 👇 for you
 
@@ -62,24 +62,24 @@ important 👇 for you
 - ✉️ Text me on WhatsApp https://wa.me/917849917350
 
 
- ### Termux Guide
+ ### Termux Guide command 
 
- ```bash
+  ```bash
 termux-setup-storage
-$pkg update 
-$pkg upgrade
-$pkg install git
-$pkg install python
-$pkg install python2
-$pip install requests
-$pip install mechanize 
-$pip install lolcat
-$pip install bs4
-$git clone https://github.com/Tohidkhan6332/Tohidkhan2.git
-$ls 
-$cd Tohidkhan2
-$ls
-$chmod 777 Tohid2.py
-$python Tohid2.py
-
+pkg update 
+pkg upgrade
+pkg install git
+pkg install python
+pkg install python2
+pip install requests
+pip install mechanize 
+pip install lolcat
+pip install bs4
+git clone https://github.com/Tohidkhan6332/Tohidkhan2.git
+ls 
+cd Tohidkhan2
+ls
+chmod 777 Tohid2.py
+python Tohid2.py
+```
 
