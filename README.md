@@ -10,41 +10,17 @@
 ### Facebook tool By `TOHID KHAN`
 Very powerfull & dangerou Facebook tool. 
 ### Tool Features
-*⚠️
-[1]:::::::::➤ᴘᴜʙʟɪᴄ ᴄʟᴏɴɪɴɢ")
-[2] :::::::::➤ᴘᴀᴋ ʀᴀɴᴅᴏᴍ ᴄʟᴏɴɪɴɢ")
-[3] :::::::::➤2006 ᴛᴏ 2012 ")
-[4] :::::::::➤2004 ᴛo 2008 ")
-⚠️*
+⚠️
+[1]:::::::::➤ᴘᴜʙʟɪᴄ ᴄʟᴏɴɪɴɢ
 
+[2] :::::::::➤ᴘᴀᴋ ʀᴀɴᴅᴏᴍ ᴄʟᴏɴɪɴɢ
 
- ### Termux Guide
+[3] :::::::::➤2006 ᴛᴏ 2012 
 
- ```bash
-termux-setup-storage
-$pkg update 
-$pkg upgrade
-$pkg install git
-$pkg install python
-$pkg install python2
-$pip install requests
-$pip install mechanize 
-$pip install lolcat
-$pip install bs4
-$git clone https://github.com/Tohidkhan6332/Tohidkhan2.git
-$ls 
-$cd Tohidkhan2
-$ls
-$chmod 777 Tohid2.py
-$python Tohid2.py
+[4] :::::::::➤2004 ᴛo 2008 
+⚠️
 
-
-
-
-
-
-
-#  important 👇 for you
+important 👇 for you
 
 <div align="center">
 <a href="https://www.instagram.com/tohidkhan6332/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=G0B1&center=true&width=910&height=100&lines=Don't+Forget+To+Subscribe;my+YouTube+Channel;PROGRAM+By+TOHID-KHAN" alt="Typing SVG" /></a>
@@ -84,5 +60,26 @@ $python Tohid2.py
 - 🤩 Follow me on Instagram https://www.instagram.com/tohidkhan6332/
 - 💬 Text me on telegram https://t.me/tohid_mewati
 - ✉️ Text me on WhatsApp https://wa.me/917849917350
+
+
+ ### Termux Guide
+
+ ```bash
+termux-setup-storage
+$pkg update 
+$pkg upgrade
+$pkg install git
+$pkg install python
+$pkg install python2
+$pip install requests
+$pip install mechanize 
+$pip install lolcat
+$pip install bs4
+$git clone https://github.com/Tohidkhan6332/Tohidkhan2.git
+$ls 
+$cd Tohidkhan2
+$ls
+$chmod 777 Tohid2.py
+$python Tohid2.py
 
 
